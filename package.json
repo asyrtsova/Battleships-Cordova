@@ -1,0 +1,21 @@
+{
+    "name": "org.crowdsensus.newsensus",
+    "version": "1.0.0",
+    "displayName": "NewsConsensus",
+    "cordova": {
+        "platforms": [
+            "browser"
+        ],
+        "plugins": {
+            "cordova-custom-config": {},
+            "cordova-plugin-device": {},
+            "cordova-plugin-whitelist": {}
+        }
+    },
+    "dependencies": {
+        "cordova-browser": "^4.1.0",
+        "cordova-custom-config": "~3.1.2",
+        "cordova-plugin-device": "~1.1.4",
+        "cordova-plugin-whitelist": "1"
+    }
+}
